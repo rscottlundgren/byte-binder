@@ -1,5 +1,10 @@
 # Potential Projects
 
+### Project Inspiration
+- [awwwards](https://www.awwwards.com/awwwards/collections/three-js/)
+
+### Project Ideas
+
 | Project Idea / Link | Technologies |
 | --- | --- |
 | [Make Your S3 Bucket Perform Using CloudFront](https://wellarchitectedlabs.com/security/100_labs/100_cloudfront_with_s3_bucket_origin/) |  |
